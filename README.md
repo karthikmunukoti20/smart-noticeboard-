@@ -11,3 +11,4 @@ An Smart board System where a student can view the notices uploaded by staff and
      - UI Animation: Uses CSS Transitions or React Spring for animations.
      - Timed sync mechanism.
 This architecture combines functional programming patterns (reducer) with event-driven architecture.
+https://smart-noticeboard.netlify.app/
